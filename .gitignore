@@ -1,0 +1,10 @@
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/target/*
+!/target/seidel-0.1.0-SNAPSHOT-standalone.jar
